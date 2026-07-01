@@ -22,7 +22,6 @@ A command-line Notes Management System built with Python that stores notes in a 
 ```text
 src/
 data/
-tests/
 ```
 
 ## Run
